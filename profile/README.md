@@ -4,14 +4,7 @@ Empowering the future of web3 with innovative on-chain games, wallets, and consu
 ![lumora-cover](https://github.com/user-attachments/assets/7d9095cf-8200-4402-b327-c9733ac1693b)
 
 ## Highlight projects
-### Story Name Service
-Storynames is the naming and branding infrastructure of the Story Protocol network. Storynames provides a decentralized system for minting and managing .ip domains, allowing users to establish on-chain identities, manage brand IP assets, and create custom web3 profiles.
-
-#### Repositories
-- [storynames-website](https://storyname.space/)
-- [storynames-contracts](https://github.com/LumoraLabs/storynames)
-- [storynames-doc](https://story-name-service.gitbook.io/story-name-service-docs)
-- [storynames-sdk](https://github.com/LumoraLabs/sns-sdk)
+### Coin Nexus
 
 ### Talarion Game
 
